@@ -8,6 +8,7 @@
 "Expected result":"Pop-up window with validation message",
 "Environment":
 ["OS Windows 10 Pro", "Browser Google Chrome Version 93.0.4577.63 ( Official build)", "(64 bit)"],
- "attachments":"skreenshot",
- "priority/severity":"//"}
+ "priority/severity":"//",
+ "attachments":"skreenshot"
+ }
 
